@@ -1,4 +1,4 @@
-# Audit - Approche par vecteurs
+# Audit sur la gouvernance SI d'une entreprise - Approche par vecteurs
 
 Dans le cadre du premier travail personnel du DAS GSSI (MAS MSSI), l'objectif est d'effectuer un audit sur la gouvernance des systèmes d'information (SI) au sein d'une entreprise.
 
